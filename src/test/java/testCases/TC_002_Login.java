@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import testBase.BaseClass;
-
+//This is login test
 public class TC_002_Login extends BaseClass {
 	@Test(groups={"sanity","master"})
 	public void test_Login()
